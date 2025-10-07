@@ -1,1 +1,7 @@
-# Mutation-Tool (OncoMutAI)\n\nThis repository contains the OncoMutAI webtool (Streamlit frontend + FastAPI backend), figures, and manuscripts.
+# Mutation-Tool (OncoMutAI)
+
+See the project under .
+
+Quick start:
+
+
